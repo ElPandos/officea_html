@@ -1,0 +1,13 @@
+:: video.keva.se
+
+* Skapa en update databas för sidan...
+	** Göra så alla filer läses in i en databas istället för i php.. Snyggare
+* öra en mindre chat som använder databasen (youtube klippet)
+* Skriva om functions.php till separata
+	** Dela upp imdb delen i Function.php
+	** Databas.php funktioner 
+
+:: mattias.keva.se
+
+* Använda CSS json till CV'et
+* 
